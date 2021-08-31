@@ -1,0 +1,1 @@
+Follow our AWS Sagemaker Batch Transform tutorial <a target="_blank" href="https://aixsolutionsgroup.com/blog-sage-batch-transform">here</a>.

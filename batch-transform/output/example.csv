@@ -1,0 +1,29 @@
+,prediction,compute_time,input_parameter-text,input_parameter-stop_sequence,input_parameter-do_sample,input_parameter-no_repeat_ngram_size,input_parameter-early_stopping,input_parameter-num_beams,input_parameter-token_min_length,input_parameter-token_max_length,input_parameter-temperature,input_parameter-top_p,input_parameter-top_k
+0,"osterone is a hormone that stimulates the production of the renin-angiotensin system and the production of the vasopressin-releasing peptide (VRE), the second messenger of the renin-angiotensin system. In the absence of this receptor, the renin-angiotensin system is stimulated by angiotensin II (AngII) and is subsequently inhibited by angiotensin II-like 1 (AngIIL1). AngII-",5,Test,"
+",True,0,False,1,25,100,0.7000000000000001,0.9,50
+1,"
+
+Hello, I'm a newbie in Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use Python. I'm trying to learn how to use",6,Test hello?,	,False,0,False,1,100,120,0.9,0.9,1
+2," world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello world!
+
+Hello",3,Test test hello. Hello,},False,0,False,2,25,50,1.0,0.9,50
+3,"
+			if err := t.CheckTests(t); err != nil && err != t.ErrnoErr(err), t.Verify(t, ""Tests"", t.Tests); t.F",5,TEST {,,True,3,True,3,50,50,1.0,0.9,100
